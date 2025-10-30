@@ -68,6 +68,9 @@ public class H2_main {
 
         System.out.println("Minimum = " + min);
         System.out.println("Maximum = " + max);
+        
+     // TODO Auto-generated method stub
+        
     }
     
 }
