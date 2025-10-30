@@ -14,10 +14,13 @@ public class H3_main {
                 	
                     k=3;
                     
-                } else {  
+                } 
+                
+                else {  
                 	
                     k=2;
                 }
+                
             } 
             
             else {  
@@ -26,10 +29,13 @@ public class H3_main {
                 	
                     k=-10;    
                     
-                } else {      
+                } 
+                
+                else {      
                 	
                     k=1;
                 }
+                
             }
             
         }    
@@ -40,21 +46,27 @@ public class H3_main {
             	
                 k=-10;   
                 
-            } else {  
+            } 
+            
+            else {  
                 if (j>100) {  
                 	
                     k=-10;    
                     
-                } else {        
+                } 
+                
+                else {        
                 	
                     k=4;      
                 }
+                
             }
+            
         }
 
-        
         System.out.println("k="+k);
     }
+    
 }
 
     

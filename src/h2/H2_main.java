@@ -19,6 +19,7 @@ public class H2_main {
             	
                 min=k;   
             }
+            
         }
         
         else {
@@ -33,6 +34,7 @@ public class H2_main {
             	
                 min=k;   
             }
+            
         }
 
        
@@ -46,6 +48,7 @@ public class H2_main {
             	
                 max=k;  
             }
+            
         } 
         
         else {
@@ -60,12 +63,12 @@ public class H2_main {
             	
                 max=k;   
             }
+            
         }
 
-       
-       
         System.out.println("Minimum = " + min);
         System.out.println("Maximum = " + max);
     }
+    
 }
 
